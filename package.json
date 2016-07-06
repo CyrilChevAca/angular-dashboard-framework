@@ -1,0 +1,25 @@
+{
+  "name": "angular-dashboard-framework",
+  "version": "0.11.0",
+  "license": "MIT",
+  "authors": [
+    "Sebastian Sdorra"
+  ],
+  "dependencies": {
+    "angular": ">=1.2",
+    "angular-bootstrap": "^0.14.3",
+    "bootstrap": "^3.3.6",
+    "Sortable": "^1.2.1"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.2",
+    "angular-scenario": ">=1.2",
+    "angular-route": ">=1.2",
+    "angular-local-storage": ">=0.2",
+    "es5-shim": ">=4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilChevAca/angular-dashboard-framework.git"
+  }
+}
